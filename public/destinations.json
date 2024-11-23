@@ -1,0 +1,274 @@
+[
+	{
+		"id": 35,
+		"name": "The Pyramids of Giza",
+		"description": "Discover the ancient wonders of the Pyramids, one of the Seven Wonders of the World",
+		"image_url": "https://th.bing.com/th/id/OIP.lze3hjHtNK6D0uO1x0S55wHaE8?w=276&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Cairo"
+	},
+	{
+		"id": 36,
+		"name": "The Egyptian Museum",
+		"description": "Explore Egypt's vast collection of ancient artifacts and treasures.",
+		"image_url": "https://th.bing.com/th/id/OIP.NwADJZKa_5CRuPHYNcCjVgHaFj?w=208&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Cairo"
+	},
+	{
+		"id": 37,
+		"name": "Khan el-Khalili Bazaar",
+		"description": "Explore the bustling souk and shop for souvenirs and handicrafts.",
+		"image_url": "https://th.bing.com/th/id/OIP.LgJ7jpb7qZh4WjNcG1fO9gAAAA?w=242&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Cairo"
+	},
+	{
+		"id": 38,
+		"name": "Al-Azhar Mosque",
+		"description": "Visit the oldest mosque in Cairo, a significant Islamic institution.",
+		"image_url": "https://th.bing.com/th/id/OIP.9dYZpYlO9jU_tFrui1obAgHaE0?w=261&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Cairo"
+	},
+	{
+		"id": 39,
+		"name": "Coptic Museum",
+		"description": "Learn about the history and culture of the Coptic Christian community in Egypt.",
+		"image_url": "https://th.bing.com/th/id/OIP.Q26Lo7LgHLN1RgkCjI5pbwHaEK?w=306&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Cairo"
+	},
+	{
+		"id": 40,
+		"name": "Citadel of Cairo",
+		"description": "Explore the historic fortress overlooking the city, with stunning views.",
+		"image_url": "https://th.bing.com/th/id/OIP.NFDsHdQdsIuoTNjzipyiEgHaE8?w=230&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Cairo"
+	},
+	{
+		"id": 41,
+		"name": "Islamic Cairo",
+		"description": "Wander through the historic district, home to numerous mosques, madrasas, and souks.",
+		"image_url": "https://th.bing.com/th/id/OIP.albzSizo3CJlbBFbo4v6dAHaE6?w=252&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Cairo"
+	},
+	{
+		"id": 42,
+		"name": "Bibliotheca Alexandria",
+		"description": "A cultural center and library, reinventing the ancient world's famous Library of Alexandria.",
+		"image_url": "https://tse4.mm.bing.net/th?id=OIP.DIjxA-fMe7BhGUO4M4Tx2AHaE8&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Alexandria"
+	},
+	{
+		"id": 43,
+		"name": "Qaitbay Citadel",
+		"description": "A 15th-century defensive fortress on the Mediterranean coast.",
+		"image_url": "https://tse2.mm.bing.net/th?id=OIP.tUJsyCOa57SGmsbzCH6NWQHaE8&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Alexandria"
+	},
+	{
+		"id": 44,
+		"name": "Alexandria Library",
+		"description": "Visit the modern-day reconstruction of the ancient Library of Alexandria.",
+		"image_url": "https://tse3.mm.bing.net/th?id=OIP.zMV699cAY5G-B_if_iWg-gHaFT&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Alexandria"
+	},
+	{
+		"id": 45,
+		"name": "Pompey's Pillar",
+		"description": "See the Roman granite column, one of the tallest in the world.",
+		"image_url": "https://tse3.mm.bing.net/th?id=OIP.F62RUrfDVWDcK5YtNhLeJQHaJ3&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Alexandria"
+	},
+	{
+		"id": 46,
+		"name": "Catacombs of Kom el-Shoqafa",
+		"description": "Explore the extensive Roman catacombs, a unique blend of Egyptian and Greek styles.",
+		"image_url": "https://tse3.mm.bing.net/th?id=OIP.tP9aW30-Ed5C1qeHvhxRkwHaFp&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Alexandria"
+	},
+	{
+		"id": 47,
+		"name": "Fort Cajero",
+		"description": "Visit the historic fort overlooking the harbor, offering panoramic views of the city.",
+		"image_url": "https://tse1.mm.bing.net/th?id=OIP.-vmf9sdB55Sh_2YWI6h5PwHaE7&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Alexandria"
+	},
+	{
+		"id": 48,
+		"name": "Monastery of Saint Mark",
+		"description": "Explore the Coptic Orthodox monastery, the resting place of Saint Mark the Evangelist.",
+		"image_url": "https://tse1.mm.bing.net/th?id=OIP.AoDpgsmh6EpBaZCoEenTjwHaE8&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Alexandria"
+	},
+	{
+		"id": 49,
+		"name": "Karnak Temple",
+		"description": "An awe-inspiring temple complex dedicated to the Theban gods.",
+		"image_url": "https://tse4.mm.bing.net/th?id=OIP.fOP6XknOu2-kRlq1stvD6wHaFj&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Luxor"
+	},
+	{
+		"id": 50,
+		"name": "Valley of the Kings",
+		"description": "Explore the tombs of pharaohs in Egypt's most famous necropolis.",
+		"image_url": "https://tse3.mm.bing.net/th?id=OIP.TwoMUbYejwAH3e2_Tswe9wHaE8&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Luxor"
+	},
+	{
+		"id": 51,
+		"name": "Temple of Hatshepsut",
+		"description": "Admire the stunning architecture of this unique temple.",
+		"image_url": "https://tse4.mm.bing.net/th?id=OIP.0o0aNsxBA7699o_yRHixRQHaE7&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Luxor"
+	},
+	{
+		"id": 52,
+		"name": "Colossi of Memnon",
+		"description": "See the two massive statues of Amenhotep III.",
+		"image_url": "https://tse2.mm.bing.net/th?id=OIP.qrcpunMiVoReHs44av9vuAHaE7&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Luxor"
+	},
+	{
+		"id": 53,
+		"name": "Temple of Edfu",
+		"description": "Explore the well-preserved temple dedicated to the falcon god Horus.",
+		"image_url": "https://tse3.mm.bing.net/th?id=OIP.UsOp0haBx2wfVSF3e56XPQHaE8&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Luxor"
+	},
+	{
+		"id": 54,
+		"name": "Temple of Kom Ombo",
+		"description": "Visit the unique double temple dedicated to both Sobek and Horus.",
+		"image_url": "https://tse1.mm.bing.net/th?id=OIP.bkIOui3aJFgC-7NcooOoiAHaE8&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Luxor"
+	},
+	{
+		"id": 55,
+		"name": "Philae Temple",
+		"description": "A beautiful island temple dedicated to the goddess Isis.",
+		"image_url": "https://tse1.mm.bing.net/th?id=OIP.WgBGYmOrjs3xbxywydbiyAHaE8&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Luxor"
+	},
+	{
+		"id": 56,
+		"name": "Nubian Museum",
+		"description": "Showcasing Nubian culture and history, from ancient to modern times.",
+		"image_url": "https://tse4.mm.bing.net/th?id=OIP.NDUpxb8dfdtEuvP9G4Y-QAHaE6&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Luxor"
+	},
+	{
+		"id": 57,
+		"name": "Aswan High Dam",
+		"description": "Learn about the engineering marvel that transformed the Nile Valley.",
+		"image_url": "https://tse4.mm.bing.net/th?id=OIP.Do_XSf17vltF-uC5AOawJAHaFB&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Luxor"
+	},
+	{
+		"id": 58,
+		"name": "Aswan Botanical Garden",
+		"description": "Explore the lush gardens on Kitchener's Island, featuring exotic plants from around the world.",
+		"image_url": "https://tse4.mm.bing.net/th?id=OIP.U73eQKySHHR79vfQD1IUYAHaFj&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Luxor"
+	},
+	{
+		"id": 59,
+		"name": "Elephantine Island",
+		"description": "Visit the island known for its ancient temples and archaeological sites.",
+		"image_url": "https://tse2.mm.bing.net/th?id=OIP.k9zhAbrn3-1v_Urg4-KsZwHaE8&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Luxor"
+	},
+	{
+		"id": 60,
+		"name": "Aswan Old Town",
+		"description": "Wander through the charming old town, with its narrow streets, colorful houses, and local markets.",
+		"image_url": "https://tse4.mm.bing.net/th?id=OIP.AjpODeZWB9rbGlTL-li91QHaE8&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Luxor"
+	},
+	{
+		"id": 61,
+		"name": "Giftun Island",
+		"description": "Explore the beautiful marine life and white sandy beaches of Giftun Island.",
+		"image_url": "https://tse4.mm.bing.net/th?id=OIP.UcXzTA4GdAJ5lPib4pSJZAHaE8&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Sinai"
+	},
+	{
+		"id": 62,
+		"name": "Snorkeling Adventures",
+		"description": "Dive into the Red Sea and discover stunning coral reefs and vibrant fish.",
+		"image_url": "https://tse2.mm.bing.net/th?id=OIP.-H9gl-6BKyhefvnVyVWFMgAAAA&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Sinai"
+	},
+	{
+		"id": 63,
+		"name": "Hurghada Marina",
+		"description": "Enjoy the vibrant nightlife, restaurants, and shopping in Hurghada Marina.",
+		"image_url": "https://tse3.mm.bing.net/th?id=OIP.ZOBF4a7yUrR6mDZ1wIEnDgHaE6&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Sinai"
+	},
+	{
+		"id": 64,
+		"name": "El Gouna",
+		"description": "Visit the picturesque resort town known for its beautiful lagoons and beaches.",
+		"image_url": "https://tse4.mm.bing.net/th?id=OIP.PplgD1XcHI1F0z_qE4VM7gHaE7&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Sinai"
+	},
+	{
+		"id": 65,
+		"name": "Sharm El Sheikh",
+		"description": "Discover the popular beach resort town, famous for diving and nightlife.",
+		"image_url": "https://tse1.mm.bing.net/th?id=OIP.zP-08KsqORpvYJd5BLfVUwHaFj&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Sinai"
+	},
+	{
+		"id": 66,
+		"name": "Ras Mohammed National Park",
+		"description": "Explore the protected area known for its stunning coral reefs and marine life.",
+		"image_url": "https://tse2.mm.bing.net/th?id=OIP.wgv1XSh1rUFAUFlhZcy5CQHaE5&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Sinai"
+	},
+	{
+		"id": 67,
+		"name": "Dahab",
+		"description": "Experience the laid-back atmosphere and beautiful diving spots in Dahab.",
+		"image_url": "https://tse1.mm.bing.net/th?id=OIP.PwdKSwwW0wMyzy1eG9PB7AHaE8&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Sinai"
+	},
+	{
+		"id": 68,
+		"name": "White Desert",
+		"description": "Marvel at the stunning white chalk rock formations in the desert.",
+		"image_url": "https://tse2.mm.bing.net/th?id=OIP.9HOfP_GdyGkuxLRL46z7qQHaE4&pid=Api&P=0&h=220",
+		"created_at": "2024-10-12T13:42:15.000Z",
+		"country": "Sinai"
+	}
+]
